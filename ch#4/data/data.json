@@ -1,0 +1,26 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Wireless Mouse",
+        "price": 2599,
+        "category": "Electronics",
+        "inStock": true
+      },
+      {
+        "id": 2,
+        "name": "Gaming Keyboard",
+        "price": 4550,
+        "category": "Electronics",
+        "inStock": false
+      },
+      {
+        "id": 3,
+        "name": "Office Chair",
+        "price": 12000,
+        "category": "Furniture",
+        "inStock": true
+      }
+    ]
+  }
+  
