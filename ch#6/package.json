@@ -1,5 +1,5 @@
 {
-  "name": "node-ch03",
+  "name": "node-ch06",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -8,9 +8,10 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Express Intro",
   "dependencies": {
     "date-fns": "^4.1.0",
+    "express": "^4.21.2",
     "uuid": "^11.1.0"
   },
   "devDependencies": {
