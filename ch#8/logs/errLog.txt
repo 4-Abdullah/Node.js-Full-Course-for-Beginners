@@ -1,0 +1,19 @@
+2025-02-26	12:29:12	 0e9747a3-6a98-4c25-8557-637b23304b86	undefined undefined
+2025-02-26	12:30:33	 4692adfa-98c1-4296-bc9c-052440b6684b	Error Not allowed by CORS
+2025-02-27	11:31:49	 8c33200f-2e7c-4bab-9955-68099a914949	ReferenceError path is not defined
+2025-02-27	11:32:10	 700172a4-2053-4a3f-a9aa-4733ff81e79b	ReferenceError path is not defined
+2025-02-27	11:35:10	 84796e66-7c7d-41e7-96b3-7bc45bfb66f3	ReferenceError path is not defined
+2025-02-27	11:35:39	 b6f1a4ec-adcd-4bae-8a88-ba14e6c37a26	ReferenceError path is not defined
+2025-02-27	11:35:51	 f551b626-b56f-4536-b6b8-3a8c9cf965e2	ReferenceError path is not defined
+2025-02-27	11:38:14	 1b97c93a-5dc8-4d05-8101-d9d268cdb3f1	ReferenceError path is not defined
+2025-02-27	13:00:44	 a7b3f9ab-932a-4bda-a822-36631d005fc7	Error ENOENT: no such file or directory, stat 'D:\Courses\Node.js Full Course for Beginners\ch#8\views\new-page.html\utf8'
+2025-02-27	13:01:11	 f0e1c5e4-fcfd-4059-abf3-46430873191c	Error ENOENT: no such file or directory, stat 'D:\Courses\Node.js Full Course for Beginners\ch#8\views\new-page.html\utf8'
+2025-02-27	13:02:20	 6b8ebcda-3eaf-433e-bc5c-2cec07a8b0e4	Error ENOENT: no such file or directory, stat 'D:\Courses\Node.js Full Course for Beginners\ch#8\views\new-page.html\utf8'
+2025-02-27	13:04:12	 b2ab60dc-100d-430b-a579-d81880d24eac	Error ENOENT: no such file or directory, stat 'D:\Courses\Node.js Full Course for Beginners\ch#8\views\new-page.html\utf8'
+2025-02-27	13:04:18	 9d522823-0ac7-45a8-b12e-dc23cbc57f22	Error ENOENT: no such file or directory, stat 'D:\Courses\Node.js Full Course for Beginners\ch#8\views\new-page.html\utf8'
+2025-02-27	13:04:21	 2f1d58cd-ceb6-4291-9fec-f54b9a4261dd	Error ENOENT: no such file or directory, stat 'D:\Courses\Node.js Full Course for Beginners\ch#8\views\new-page.html\utf8'
+2025-02-27	13:04:25	 e26d3494-2ad6-4cfe-972f-82657c3827e4	Error ENOENT: no such file or directory, stat 'D:\Courses\Node.js Full Course for Beginners\ch#8\views\new-page.html\utf8'
+2025-02-27	13:05:31	 dc303199-9697-4a11-a9db-e9a888349cd3	Error ENOENT: no such file or directory, stat 'D:\Courses\Node.js Full Course for Beginners\ch#8\views\new-page.html\utf8'
+2025-02-27	13:05:32	 3cbe9484-b7e9-402e-995e-d5fc176d00d4	Error ENOENT: no such file or directory, stat 'D:\Courses\Node.js Full Course for Beginners\ch#8\views\new-page.html\utf8'
+2025-02-27	13:06:02	 74f1bcff-93a6-4c6b-942a-ddfa617e482d	Error ENOENT: no such file or directory, stat 'D:\Courses\Node.js Full Course for Beginners\ch#8\views\new-page.html\utf8'
+2025-02-27	13:08:31	 d27dfd80-9e46-4e5d-a8bb-582fe4cf81b3	Error ENOENT: no such file or directory, stat 'D:\Courses\Node.js Full Course for Beginners\ch#8\views\new-page.html\utf8'
