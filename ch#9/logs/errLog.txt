@@ -17,3 +17,7 @@
 2025-02-27	13:05:32	 3cbe9484-b7e9-402e-995e-d5fc176d00d4	Error ENOENT: no such file or directory, stat 'D:\Courses\Node.js Full Course for Beginners\ch#8\views\new-page.html\utf8'
 2025-02-27	13:06:02	 74f1bcff-93a6-4c6b-942a-ddfa617e482d	Error ENOENT: no such file or directory, stat 'D:\Courses\Node.js Full Course for Beginners\ch#8\views\new-page.html\utf8'
 2025-02-27	13:08:31	 d27dfd80-9e46-4e5d-a8bb-582fe4cf81b3	Error ENOENT: no such file or directory, stat 'D:\Courses\Node.js Full Course for Beginners\ch#8\views\new-page.html\utf8'
+2025-03-02	11:55:35	 366159bc-3a47-4fbc-8808-148a60e78b31	TypeError Cannot read properties of undefined (reading 'id')
+2025-03-02	12:55:17	 2c71411f-0bcb-49d5-b0cc-fdafb0746d71	TypeError Cannot read properties of undefined (reading 'id')
+2025-03-02	12:55:31	 7ac74c95-47bf-420e-b13e-b0c0e5172de8	TypeError Cannot read properties of undefined (reading 'id')
+2025-03-02	13:00:06	 b17def8b-19c7-4e99-96d1-7e39c1bdbf6e	TypeError Cannot read properties of undefined (reading 'id')

@@ -6,7 +6,7 @@
       },
       {
         "id": 2,
-        "name": "Adnan",
-        "category": "Sami"
+        "firstname": "Adnan",
+        "lastname": "Sami"
       }
 ]
