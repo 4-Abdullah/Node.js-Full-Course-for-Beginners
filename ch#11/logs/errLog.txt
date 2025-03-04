@@ -21,3 +21,15 @@
 2025-03-02	12:55:17	 2c71411f-0bcb-49d5-b0cc-fdafb0746d71	TypeError Cannot read properties of undefined (reading 'id')
 2025-03-02	12:55:31	 7ac74c95-47bf-420e-b13e-b0c0e5172de8	TypeError Cannot read properties of undefined (reading 'id')
 2025-03-02	13:00:06	 b17def8b-19c7-4e99-96d1-7e39c1bdbf6e	TypeError Cannot read properties of undefined (reading 'id')
+2025-03-04	09:20:53	 d4b45ce0-0be3-49ed-9c08-5da2a30e8c20	ReferenceError authorization is not defined
+2025-03-04	09:21:30	 ab70f41d-4345-45fa-8582-b7e29bbc848e	ReferenceError authorization is not defined
+2025-03-04	09:22:29	 15b15fba-d096-4562-bbc7-4d104e6f0a5e	ReferenceError authorization is not defined
+2025-03-04	09:23:14	 6d587449-2ac2-4f55-8e30-144e448f0724	ReferenceError authorization is not defined
+2025-03-04	09:30:15	 2693f971-b34e-4580-8fdc-5c63d303e15d	ReferenceError authorization is not defined
+2025-03-04	09:30:29	 cb2e7c18-304f-43ee-be9f-7319a69f4e6d	ReferenceError authorization is not defined
+2025-03-04	09:30:29	 d76607d6-65c6-4422-86d0-d09f0c43a361	ReferenceError authorization is not defined
+2025-03-04	09:32:49	 0bb777f1-4ae3-4e9b-9aff-7945bb60860b	ReferenceError authorization is not defined
+2025-03-04	09:48:17	 b52ee4ec-2721-4a68-a43a-28d798306fc9	ReferenceError authorization is not defined
+2025-03-04	09:48:54	 b34b2b5e-ee49-4395-a098-6c2dcb6c3dc7	ReferenceError authorization is not defined
+2025-03-04	09:49:28	 6497a6d6-9ca3-4fb6-860c-c1f8bf10f39b	ReferenceError authorization is not defined
+2025-03-04	09:55:13	 bb565c55-383c-42f6-91c9-98ef2960483c	ReferenceError ACCESS_TOKEN_SECRET is not defined
