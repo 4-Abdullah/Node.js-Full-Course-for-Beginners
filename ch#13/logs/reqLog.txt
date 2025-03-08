@@ -425,3 +425,6 @@
 2025-03-07	13:20:30	 ddccee26-71eb-481b-b263-046f4f62fe77	DELETE	undefined	/employees
 2025-03-07	13:21:04	 95e6985e-5ff8-42f1-8f68-c62553253eee	POST	undefined	/auth
 2025-03-07	13:21:12	 e917f143-af02-4d08-a8df-12f27f585cd8	DELETE	undefined	/employees
+2025-03-08	13:15:17	 31ad9c9f-3e79-4e18-8635-60c8187292f4	GET	undefined	/
+2025-03-08	13:15:17	 a7c1211a-bb2d-49b8-9bd7-239af66c94aa	GET	undefined	/css/style.css
+2025-03-08	13:15:17	 1a32900e-84e7-4504-912e-2af8d972b4ad	GET	undefined	/favicon.ico
