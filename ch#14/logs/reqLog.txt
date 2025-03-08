@@ -428,3 +428,8 @@
 2025-03-08	13:15:17	 31ad9c9f-3e79-4e18-8635-60c8187292f4	GET	undefined	/
 2025-03-08	13:15:17	 a7c1211a-bb2d-49b8-9bd7-239af66c94aa	GET	undefined	/css/style.css
 2025-03-08	13:15:17	 1a32900e-84e7-4504-912e-2af8d972b4ad	GET	undefined	/favicon.ico
+2025-03-08	15:00:05	 a4a86c29-f1c4-4093-b9bb-c208458d8229	POST	undefined	/register
+2025-03-08	15:00:43	 93866a15-e6ab-4d36-9021-213beba4eb21	POST	undefined	/register
+2025-03-08	15:01:28	 92f5d746-f82f-40f3-8aae-ef9e91567219	POST	undefined	/register
+2025-03-08	15:02:58	 e4a6f262-2c3d-4dcd-814c-02f7d9ed5f9a	POST	undefined	/register
+2025-03-08	15:04:04	 ed84b9e8-e121-4dc3-86a8-df2332209afe	POST	undefined	/register
