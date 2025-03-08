@@ -33,3 +33,5 @@
 2025-03-04	09:48:54	 b34b2b5e-ee49-4395-a098-6c2dcb6c3dc7	ReferenceError authorization is not defined
 2025-03-04	09:49:28	 6497a6d6-9ca3-4fb6-860c-c1f8bf10f39b	ReferenceError authorization is not defined
 2025-03-04	09:55:13	 bb565c55-383c-42f6-91c9-98ef2960483c	ReferenceError ACCESS_TOKEN_SECRET is not defined
+2025-03-08	17:10:41	 ab0097b1-f21b-4b72-b510-1b5b95c318d5	SyntaxError Unexpected token c in JSON at position 9
+2025-03-08	17:11:19	 d8a17fc9-988f-4292-914f-80d36f94066e	SyntaxError Unexpected token c in JSON at position 9
