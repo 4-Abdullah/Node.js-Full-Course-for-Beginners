@@ -2,12 +2,13 @@ const data = {
     employees: require('../model/employees.json'),
     setEmployees: function (data) {this.employees = data}
 };
-
+const fsPromises = require('fs').promises
+const path = require('path')
 const getAllEmployees = (req,res) => {
     res.json(data.employees);
 }
 
-const createNewEmployee = (req,res) => {
+const createNewEmployee = async(req,res) => {
     const newEmployee = {
         id: data.employees.length > 0
              ? data.employees[data.employees.length - 1].id + 1
@@ -21,6 +22,26 @@ const createNewEmployee = (req,res) => {
     }        
     
     data.setEmployees([...data.employees, newEmployee])
+    await fsPromises.writeFile(
+                path.join(__dirname, '..', 'model', 'employees.json'),
+                JSON.stringify(data.employees, null, 4)
+                
+                // JSON.stringify(data.employees,
+                    // (key, value) => {
+                    // if(key === 'password') return '******';
+                    // return value;},
+
+                // (key, value) => (key === 'lastname' ? '******' : value), 4)
+               
+                // JSON.stringify(
+                //     data.employees.map(emp => ({
+                //         id: emp.id,
+                //         firstname: emp.firstname,
+                //         lastname: emp.lastname,
+                //     })
+                // ), null, 4)
+                    
+            );
     res.status(201).json(data.employees)
 }
 
