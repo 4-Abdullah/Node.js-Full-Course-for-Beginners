@@ -1,5 +1,0 @@
-Core Modules (Built-in Modules)
-These are pre-installed modules that come with Node.js.
-You don’t need to install them manually.
-You import them using require().
-Examples: fs, path, os, http, crypto, etc.
